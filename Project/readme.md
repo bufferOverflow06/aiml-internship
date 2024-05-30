@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### Data Collection 
 
-* Collected historical crop price data for Arecanut and Coconut in the Mangaluru market from 01/01/2015 to 31/12/2022 from [here](https://www.krishimaratavahini.kar.nic.in/department.aspx).
+* Collected historical crop price data for Arecanut and Coconut in the Mangaluru market from 01/01/2015 to 31/12/2022 from [here](https://krama.karnataka.gov.in/department.aspx)
 
 ### Data Preprocessing
 
